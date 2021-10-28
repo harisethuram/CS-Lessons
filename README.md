@@ -1,5 +1,6 @@
 # Lessons on getting started with Computer Science
 Lessons are taught in C and are meant for beginners
+
 An eight week course with assignments, and will cover many important concepts up till recursion. 
 
 Week 1
